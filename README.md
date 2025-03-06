@@ -31,3 +31,5 @@ Usage
 Compile the hw4a.c file using a C compiler:
 gcc hw4a.c -o hanoi
 
+Run the executable and input the number of disks:
+
