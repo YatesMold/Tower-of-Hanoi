@@ -29,3 +29,5 @@ void tower(int n, int start, int end, int ath, char* A[], char*B[], char*C[], in
 Usage
 
 Compile the hw4a.c file using a C compiler:
+gcc hw4a.c -o hanoi
+
